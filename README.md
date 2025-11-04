@@ -1,6 +1,4 @@
-Here’s an updated `README.md` for the **KIPAJI-FASHION-ROBOT** project with suggested images for a more visually engaging presentation.
 
----
 
 # KIPAJI-FASHION-ROBOT
 
