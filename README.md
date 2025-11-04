@@ -1,4 +1,4 @@
-
+J
 
 # KIPAJI-FASHION-ROBOT
 
@@ -90,4 +90,4 @@ GitHub: [@Patiencewantae123](https://github.com/Patiencewantae123)
 
 ---
 
-This README includes sections with placeholders for images to enhance the project's visual appeal and usability. Add your images to the `/images/` folder in your repository, and update the paths to match each section. This layout will make the project more approachable and engaging for new users and contributors.
+
